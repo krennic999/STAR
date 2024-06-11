@@ -2,82 +2,82 @@ import Image from "next/image";
 
 const sampleGenerations = [
   {
-      "src": "/samples/bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8.png",
+      "src": "/STAR/samples/bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8.png",
       "alt": "bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8",
       "prompt": "Hyper realistic photo of a 14yearold german boy with curly brown hair, brown eyes next to black spitz breed dog. portrait. in forest summer sun shining through leafes in 2023."
   },
   {
-      "src": "/samples/8f55ea06cac45a3388f1afb0f9a0682f0bf56a578c563de4bc995054ebb5952b.png",
+      "src": "/STAR/samples/8f55ea06cac45a3388f1afb0f9a0682f0bf56a578c563de4bc995054ebb5952b.png",
       "alt": "8f55ea06cac45a3388f1afb0f9a0682f0bf56a578c563de4bc995054ebb5952b",
       "prompt": "Professional photo of sangria cockail in a backyard garden with bright sunlight and greenery."
   },
   {
-      "src": "/samples/5970aee04b6c58b3dce3e67b321372a640df0d7ea65c1274249dbd407036e600.png",
+      "src": "/STAR/samples/5970aee04b6c58b3dce3e67b321372a640df0d7ea65c1274249dbd407036e600.png",
       "alt": "5970aee04b6c58b3dce3e67b321372a640df0d7ea65c1274249dbd407036e600",
       "prompt": "A young girl covered in light orange and yellow flowers, dressed in flowers, flowers in hair."
   },
   {
-      "src": "/samples/61e63c1f266231733b87b43f5cf07f9b8492c3f3c82e263f9e182b318297e242.png",
+      "src": "/STAR/samples/61e63c1f266231733b87b43f5cf07f9b8492c3f3c82e263f9e182b318297e242.png",
       "alt": "61e63c1f266231733b87b43f5cf07f9b8492c3f3c82e263f9e182b318297e242",
       "prompt": "Photo realistic, macro seed, Leukospermum Katerina flower, professional photography, macro photography, insane detail, dew drops, Canon EF 180mm F3. 5L Macro USM lens, flowers in full focus, bokeh background, nature background."
   },
   {
-      "src": "/samples/4e9ca6436174a0f6a4624054c3c60595abe3ede613f9df58271bdfd6c1708d8c.png",
+      "src": "/STAR/samples/4e9ca6436174a0f6a4624054c3c60595abe3ede613f9df58271bdfd6c1708d8c.png",
       "alt": "4e9ca6436174a0f6a4624054c3c60595abe3ede613f9df58271bdfd6c1708d8c",
       "prompt": "Flowing river high in the himalayas, oriental village in background, cinematic, detailed, 8k."
   },
   {
-      "src": "/samples/594cbf2a52d94e0ab50c4603d94eeaf38fd63d5040748744b7b012b476384112.png",
+      "src": "/STAR/samples/594cbf2a52d94e0ab50c4603d94eeaf38fd63d5040748744b7b012b476384112.png",
       "alt": "594cbf2a52d94e0ab50c4603d94eeaf38fd63d5040748744b7b012b476384112",
       "prompt": "Zebra, abstract oil painting with thick brushstrokes with layers of colors, wild mood."
   },
   {
-      "src": "/samples/b9116074ba1e0c32decd7f12fa55dec6f029b801b6502ec1bb3a6db7501f8441.png",
+      "src": "/STAR/samples/b9116074ba1e0c32decd7f12fa55dec6f029b801b6502ec1bb3a6db7501f8441.png",
       "alt": "b9116074ba1e0c32decd7f12fa55dec6f029b801b6502ec1bb3a6db7501f8441",
       "prompt": "A large glass raindrop filled with nature and desert landscape hyperrealistic, awardwinning photo, insanely detailed."
   },
   {
-      "src": "/samples/4dcc2ea9c452b3a4779c7922cc7f7b8cb7e7dd869fa248bf68f5581ce4681597.png",
+      "src": "/STAR/samples/4dcc2ea9c452b3a4779c7922cc7f7b8cb7e7dd869fa248bf68f5581ce4681597.png",
       "alt": "4dcc2ea9c452b3a4779c7922cc7f7b8cb7e7dd869fa248bf68f5581ce4681597",
       "prompt": "Beta fish paint in a splatter effect, Detailed image, artsy, multi colored, vibrant colors, hyper realistic, black background, close up."
   },
   {
-      "src": "/samples/ed1c8bb4d3672cfba05f1226664de7f8e42a50d7fb3173b5d3853b1a2766954c.png",
+      "src": "/STAR/samples/ed1c8bb4d3672cfba05f1226664de7f8e42a50d7fb3173b5d3853b1a2766954c.png",
       "alt": "ed1c8bb4d3672cfba05f1226664de7f8e42a50d7fb3173b5d3853b1a2766954c",
       "prompt": "Grey exotic shorthair, as an astronaut, copper eyes, flat face, space in the background, ar 169."
   },
   {
-      "src": "/samples/cce7c48b70bbefaaf48ed287e72f09a215c47d07b82031160a99ff1c23ec6988.png",
+      "src": "/STAR/samples/cce7c48b70bbefaaf48ed287e72f09a215c47d07b82031160a99ff1c23ec6988.png",
       "alt": "cce7c48b70bbefaaf48ed287e72f09a215c47d07b82031160a99ff1c23ec6988",
       "prompt": "A closeup photograph of the decadent Fortress Stilt Indulgence dessert, served in a crystal clear glass on a white plate. The dessert consists of layers of rich dark chocolate mousse, creamy caramel sauce, and crunchy caramelized nuts, all topped with a delicate gold leaf, well lit by 3point lighting in a mediterran and modern kitchen with black elements."
   },
   {
-      "src": "/samples/0376e31eba487803c43be77e7f35687678e93d453173b3798492230799246271.png",
+      "src": "/STAR/samples/0376e31eba487803c43be77e7f35687678e93d453173b3798492230799246271.png",
       "alt": "0376e31eba487803c43be77e7f35687678e93d453173b3798492230799246271",
       "prompt": "Spectacular scene of the tall fjords in norway, snow on the mountains, frozen in time, dark night, stars in the sky, the green aurora borealis is bright, cinematic, photorealistic, hyperdetailed, dramatic."
   },
   {
-      "src": "/samples/33d1f0bbd780f2af6c94c54453bcb0d10b598f7cc613306aa68dd040e24ba8ce.png",
+      "src": "/STAR/samples/33d1f0bbd780f2af6c94c54453bcb0d10b598f7cc613306aa68dd040e24ba8ce.png",
       "alt": "33d1f0bbd780f2af6c94c54453bcb0d10b598f7cc613306aa68dd040e24ba8ce",
       "prompt": "Cinematic and realistic drone shot of mountains with lake, octane render , 16k, 3d hd."
   },
   {
-      "src": "/samples/d027221d020d734907a96e96f55a9b08dae3bbbe5f893b28b082ae843e5a0497.png",
+      "src": "/STAR/samples/d027221d020d734907a96e96f55a9b08dae3bbbe5f893b28b082ae843e5a0497.png",
       "alt": "d027221d020d734907a96e96f55a9b08dae3bbbe5f893b28b082ae843e5a0497",
       "prompt": "A close up of Geraldine Nightstalker with dark brown hair green eyes, glowing multicolored orbs wearing master spellcaster robes adorned with patches and trophies, in ancient forest, mossy, dusky, stunning atmosphere ultrawide shot."
   },
   {
-      "src": "/samples/88eb2c3c18a1a5e02464ee0a0f95dbcb18ac3ffe340374e23c9f7f186d248075.png",
+      "src": "/STAR/samples/88eb2c3c18a1a5e02464ee0a0f95dbcb18ac3ffe340374e23c9f7f186d248075.png",
       "alt": "88eb2c3c18a1a5e02464ee0a0f95dbcb18ac3ffe340374e23c9f7f186d248075",
       "prompt": "Letter made of flowers, The letter B, shown frontally, white background."
   },
   {
-      "src": "/samples/541390da191f0dac611cc661f7fc4807f5aeaf6544b822d532d1428f7bf2afb7.png",
+      "src": "/STAR/samples/541390da191f0dac611cc661f7fc4807f5aeaf6544b822d532d1428f7bf2afb7.png",
       "alt": "541390da191f0dac611cc661f7fc4807f5aeaf6544b822d532d1428f7bf2afb7",
       "prompt": "Photo of a woman standing in the rain wearing red wig, new york setting, sunlight on back of her shoulders, running make up, high angle photo, 85mm lens, nikon d800."
   },
   {
-      "src": "/samples/11d7ff256947bf85b966b1cbadee54e54e9bb28c37c7e9f199746d80f7d4b2ec.png",
+      "src": "/STAR/samples/11d7ff256947bf85b966b1cbadee54e54e9bb28c37c7e9f199746d80f7d4b2ec.png",
       "alt": "11d7ff256947bf85b966b1cbadee54e54e9bb28c37c7e9f199746d80f7d4b2ec",
       "prompt": "Beautiful glamorous perfect cosmic drag queen, Ultra realistic, photo realistic , Octane render, Details, Cyberpunk, 8K, Realistic lighting, Hyperrealism, Cinematic lighting, V Ray, Highly detailed, Ray tracing, Trending on Artstation, Digital painting, Sharp focus, Glitter, Vivid colors, Centered, Dynamic lighting, Photorealism, Cinematic, Creative, Ultra detailed, Volumetric light, higher consciousness being pose, mystical being, shamanic priestess, divine feminine, beautiful outfit, extra terrestrial, pearly colors, bioluminescence, close up, octane render, full body, a goddess, cosmos, spiritual."
   }
@@ -87,7 +87,7 @@ export default function Home() {
   return (
     <>
     <div
-        className="hero min-h-screen bg-[url('/banner.jpg')]"
+        className="hero min-h-screen bg-[url('/STAR/banner.jpg')]"
       >
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
@@ -131,8 +131,8 @@ export default function Home() {
     <div className="flex min-h-screen flex-col p-16">
       <h1 className="mb-3 text-4xl font-bold pb-10">Performance & Comparison</h1>
       <div className="grid grid-cols-2 px-16 items-center text-center pb-10">
-        <Image src="/performance-1.svg" alt="performance-1" className="w-9/12" loading="lazy" width={0} height={0} />
-        <Image src="/performance-2.svg" alt="performance-2" className="w-9/12" loading="lazy" width={0} height={0} />
+        <Image src="/STAR/performance-1.svg" alt="performance-1" className="w-9/12" loading="lazy" width={0} height={0} />
+        <Image src="/STAR/performance-2.svg" alt="performance-2" className="w-9/12" loading="lazy" width={0} height={0} />
         <p className="text-base font-semibold text-gray-700 pt-1">Per-category FID on MJHQ-30K</p>
         <p className="text-base font-semibold text-gray-700 pt-1">Efficiency & CLIP-Score of 512x512 generation</p>
       </div>
@@ -144,7 +144,7 @@ export default function Home() {
 
     <div className="flex min-h-screen flex-col p-16 bg-white">
       <h1 className="mb-3 text-4xl font-bold">Architecture of STAR</h1>
-      <Image src="/framework.png" alt="architecture" className="w-8/12 place-self-center" loading="lazy" width={0} height={0} sizes="100vw" />
+      <Image src="/STAR/framework.png" alt="architecture" className="w-8/12 place-self-center" loading="lazy" width={0} height={0} sizes="100vw" />
       <p className="text-base leading-relaxed pr-16 pt-8 text-gray-600">
         We present STAR, a Scale-wise Text-to-image model that employs scale-wise Auto-Regressive paradigm. 
         Unlike VAR, which is limited to class-conditioned synthesis within a fixed set of predetermined categories, 
