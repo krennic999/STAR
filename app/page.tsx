@@ -1,10 +1,25 @@
 import Image from "next/image";
 
 const sampleGenerations = [
+  // {
+  //     "src": "/STAR/samples/bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8.png",
+  //     "alt": "bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8",
+  //     "prompt": "Hyper realistic photo of a 14yearold german boy with curly brown hair, brown eyes next to black spitz breed dog. portrait. in forest summer sun shining through leafes in 2023."
+  // },
+  // {
+  //     "src": "/STAR/samples/bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8.png",
+  //     "alt": "bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8",
+  //     "prompt": "Hyper realistic photo of a 14yearold german boy with curly brown hair, brown eyes next to black spitz breed dog. portrait. in forest summer sun shining through leafes in 2023."
+  // },
   {
-      "src": "/STAR/samples/bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8.png",
-      "alt": "bd55048a15200809a1aed131c912e8babba2f82c97cf24f9af5e8db7bb2732d8",
-      "prompt": "Hyper realistic photo of a 14yearold german boy with curly brown hair, brown eyes next to black spitz breed dog. portrait. in forest summer sun shining through leafes in 2023."
+    "src": "/STAR/samples/1a4203ed1bb8554cc64dca943c3b06aeb8562764.png",
+    "alt": "1a4203ed1bb8554cc64dca943c3b06aeb8562764",
+    "prompt": "Fine art bird photography, amazing, hyper realistic, notable Nikon D850, 200mm f2."
+  },
+  {
+    "src": "/STAR/samples/1ba6e2de35b42f101cc6b7b56fdd53d4b1bb79e0.png",
+    "alt": "1ba6e2de35b42f101cc6b7b56fdd53d4b1bb79e0",
+    "prompt": "A winterthemed profile picture of an awardwinning photograph of a white cat in the snow. The cat is sitting in the snow with its head tilted to the side. Snowflakes are visible falling around the cat, and the photograph is shot in a soft, dreamy style to create a serene and peaceful mood. The white color of the cat blends in perfectly with the snowy background, creating a minimalist and harmonious look. The profile picture is cropped to focus."
   },
   {
       "src": "/STAR/samples/8f55ea06cac45a3388f1afb0f9a0682f0bf56a578c563de4bc995054ebb5952b.png",
