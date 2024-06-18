@@ -124,12 +124,12 @@ export default function Home() {
               <p>
                 <span><sup>1</sup>University of Science and Technology of China, </span>
                 <span><sup>2</sup>Harbin Institute of Technology, </span>
-                <span><sup>3</sup>Du Xiaoman Financial</span>
+                <span><sup>3</sup>Du Xiaoman</span>
               </p>
             </div>
             <div className="mb-5 text-neural-300 text-base">
               <p>
-                <sup>*</sup>Equal contribution: Work done during the internships of at Du Xiaoman Financial.
+                <sup>*</sup>Equal contribution: Work done during the internships of at Du Xiaoman.
               </p>
               <p>
                 <span><sup>‡</sup>Corresponding author: <a href="mailto:anchen@mail.ustc.edu.cn">anchen@mail.ustc.edu.cn</a>, <a href="mailto:jinyi08@mail.ustc.edu.cn">jinyi08@ustc.edu.cn</a></span>
@@ -137,7 +137,7 @@ export default function Home() {
             </div>
             <div className="flex justify-center ">
               <a role="button" className="btn border-white/40 bg-white/40 mr-3 w-24" href="https://github.com/krennic999/STAR" target="_blank" rel="noopener">Github</a>
-              <a role="button" className="btn btn-disabled	ml-3 w-24" href="" rel="noopener">ArXiv</a>
+              <a role="button" className="btn border-white/40 bg-white/40 mr-3 w-24" href="https://arxiv.org/abs/2406.10797" target="_blank" rel="noopener">ArXiv</a>
             </div>
           </div>
         </div>
