@@ -20,12 +20,12 @@
 
 ### Important: We have made the weights and code for STAR available in a new repository. Click [here](https://github.com/DavinciXLab/STAR-T2I) to access it!
 
-# News
+## News
 
 - [2025-02] We have released official [Codebase](https://github.com/DavinciXLab/STAR-T2I) and weights at [Hugging Face](https://huggingface.co/taocrayon/STAR)!
 - [2024-06] STAR [Technical Report](https://arxiv.org/abs/2406.10797) is released.
 
-#  Introduction
+##  Introduction
 <!-- STAR, a novel scale-wise text-to-image model, is the first to extend the category-based VAR model from a 256-pixel resolution to a 1024-pixel resolution for text-to-image synthesis. -->
 <b><font color="color:rgb(255, 242, 140)">STAR</font>, the first scale-wise text-to-image model based on VAR, supports resolutions from 256×256 to 1024×1024.
 
@@ -73,10 +73,10 @@ Unlike VAR, which focuses on a toy category-based auto-regressive generation for
 
 <!-- ### More Ablations -->
 
-# Reproduction
+## Reproduction
 See [Repo](https://github.com/DavinciXLab/STAR-T2I) for detailes.
 
-# Citation
+## Citation
 Thanks to the developers of [Visual Autoregressive Modeling](https://arxiv.org/abs/2404.02905) for their excellent work. Our code is adapted from [VAR](https://github.com/FoundationVision/VAR).
 If our work assists your research, feel free to give us a star ⭐ or cite us using:
 ```
