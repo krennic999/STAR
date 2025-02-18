@@ -6,11 +6,19 @@
     </h1>
 </div>
 
+<div align="center">
+    <a href="https://arxiv.org/abs/2406.10797">
+        <img src="https://img.shields.io/badge/ArXiv-2406.10797-b31b1b.svg" alt="ArXiv" />
+    </a>&nbsp;
+    <a href="https://huggingface.co/taocrayon/STAR">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-STAR/star-yellow" alt="Huggingface Weights" />
+    </a>&nbsp;
+    <a href="https://github.com/DavinciXLab/STAR-T2I">
+        <img src="https://img.shields.io/badge/Github-Project_Page-blue" alt="Project Page" />
+    </a>
+</div>
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2406.10797-b31b1b.svg)](https://arxiv.org/abs/2406.10797)&nbsp;
-[![Huggingface Weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-STAR/star-yellow)](https://huggingface.co/taocrayon/STAR)&nbsp;
-[![Project Page](https://img.shields.io/badge/Github-Project_Page-blue)](https://github.com/DavinciXLab/STAR-T2I)&nbsp;
-
+### Important: We have made the weights and code for STAR available in a new repository. Click [here](https://github.com/DavinciXLab/STAR-T2I) to access it!
 
 # News
 
