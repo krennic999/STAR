@@ -13,16 +13,16 @@
     <a href="https://huggingface.co/taocrayon/STAR">
         <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-STAR/star-yellow" alt="Huggingface Weights" />
     </a>&nbsp;
-    <a href="https://github.com/DavinciXLab/STAR-T2I">
+    <a href="https://github.com/Davinci-XLab/STAR-T2I">
         <img src="https://img.shields.io/badge/Github-Project_Page-blue" alt="Project Page" />
     </a>
 </div>
 
-### Important: We have made the weights and code for STAR available in a new repository. Click [here](https://github.com/DavinciXLab/STAR-T2I) to access it!
+### Important: We have made the weights and code for STAR available in a new repository. Click [here](https://github.com/Davinci-XLab/STAR-T2I) to access it!
 
 ## News
 
-- [2025-02] We have released official [Codebase](https://github.com/DavinciXLab/STAR-T2I) and weights at [Hugging Face](https://huggingface.co/taocrayon/STAR)!
+- [2025-02] We have released official [Codebase](https://github.com/Davinci-XLab/STAR-T2I) and weights at [Hugging Face](https://huggingface.co/taocrayon/STAR)!
 - [2024-06] STAR [Technical Report](https://arxiv.org/abs/2406.10797) is released.
 
 ##  Introduction
@@ -74,7 +74,7 @@ Unlike VAR, which focuses on a toy category-based auto-regressive generation for
 <!-- ### More Ablations -->
 
 ## Reproduction
-See [Repo](https://github.com/DavinciXLab/STAR-T2I) for detailes.
+See [Repo](https://github.com/Davinci-XLab/STAR-T2I) for detailes.
 
 ## Citation
 Thanks to the developers of [Visual Autoregressive Modeling](https://arxiv.org/abs/2404.02905) for their excellent work. Our code is adapted from [VAR](https://github.com/FoundationVision/VAR).
